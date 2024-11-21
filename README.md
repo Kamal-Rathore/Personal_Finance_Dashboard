@@ -32,3 +32,6 @@ CREATE TABLE transactions (
     amount DECIMAL(10, 2) NOT NULL,
     category VARCHAR(100) NOT NULL
 );
+
+# Installation
+# 1. Clone the Repository
